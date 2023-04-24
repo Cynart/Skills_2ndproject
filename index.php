@@ -8,7 +8,7 @@
     <br /> <br />
     
     <form action="problem.php" method="POST">
-    Full name: <input type="text" name="fullname">
+    <label>Full name </label><input type="text" name="fullname">
 
     <select name="role">
             <option value = "Admin">Admin</option>
