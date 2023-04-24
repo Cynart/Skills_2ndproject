@@ -32,8 +32,8 @@
             <nav>
              <ul>
                 <li><a href="index.php">Home</a></li>
-                <li><a href="booking.html">Book Trip</a></li>
-                <li><a href="admin.html">Admin Log</a></li>
+                
+                <li><a href="index.php">Admin Log</a></li>
              </ul>
             </nav>
         </div>
